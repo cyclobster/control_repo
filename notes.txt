@@ -1,0 +1,4 @@
+Puppet is much better at managing the desired state of your nodes
+Ansible is much better at orchestration and procedural tasks
+Many users combine the two tools
+
